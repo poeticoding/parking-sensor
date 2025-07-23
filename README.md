@@ -1,7 +1,8 @@
-[![Parking Sensor](https://img.youtube.com/vi/6SB3PiJyosc/0.jpg)](https://www.youtube.com/watch?v=6SB3PiJyosc)
-
-
 # ESP32 Parking Sensor
+<a href="https://www.youtube.com/watch?v=6SB3PiJyosc">
+  <img src="https://img.youtube.com/vi/6SB3PiJyosc/maxresdefault.jpg" alt="Parking Sensor Demo" width="560">
+  <p>▶️ Click above to see the Parking sensor in action!</p>
+</a>
 
 A visual parking assistance system using ESP32, ultrasonic sensor, and LED strip to help navigate tight garage spaces.
 
